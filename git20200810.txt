@@ -9,5 +9,6 @@ git clone https://github.com/jiaozhuo94/health20200809.git 把远程仓库中的
 创建ssh
 ssh-keygen -t rsa -C 'jjyhndx@163.com' 生成ssh秘钥
 粘到GitHub中
-
+ git remote add originssh git@github.com:jiaozhuo94/health20200809.git
+创建ssh方式的代号
 
