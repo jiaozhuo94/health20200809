@@ -4,5 +4,6 @@ git push origin master
 cd git/gitclone 创建一个新的目录
 git clone https://github.com/jiaozhuo94/health20200809.git 把远程仓库中的代码克隆到本地
 202008102155
+在health中提交一次代码
 在git/gitclone下的health中修改代码后提交
 
