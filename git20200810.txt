@@ -11,4 +11,4 @@ ssh-keygen -t rsa -C 'jjyhndx@163.com' 生成ssh秘钥
 粘到GitHub中
  git remote add originssh git@github.com:jiaozhuo94/health20200809.git
 创建ssh方式的代号
-
+在git/gitclone下的health中修改代码后提交
